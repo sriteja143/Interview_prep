@@ -35,3 +35,6 @@ Do I need sorted order?
 # Linked HashMap
 <img width="1312" height="1199" alt="image" src="https://github.com/user-attachments/assets/ad0861de-1cd0-421b-a5b1-3aac01bfe448" />
 
+# TreeMap
+<img width="1312" height="1199" alt="image" src="https://github.com/user-attachments/assets/8f0f051f-2c6e-44b6-8e49-d4a788e26104" />
+
