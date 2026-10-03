@@ -28,3 +28,10 @@ Do I need sorted order?
             │          │
     LinkedHashSet   HashSet
 ```
+
+# HashMap
+<img width="1312" height="1199" alt="image" src="https://github.com/user-attachments/assets/55935948-6948-4284-a473-4576a23a2aa2" />
+
+# Linked HashMap
+<img width="1312" height="1199" alt="image" src="https://github.com/user-attachments/assets/ad0861de-1cd0-421b-a5b1-3aac01bfe448" />
+
